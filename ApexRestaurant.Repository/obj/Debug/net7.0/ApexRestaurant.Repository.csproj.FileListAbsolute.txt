@@ -1,0 +1,28 @@
+E:/BCIS/7th sem/DotNet/ApexResturant/ApexRestaurant.Repository/bin/Debug/net7.0/ApexRestaurant.Repository.deps.json
+E:/BCIS/7th sem/DotNet/ApexResturant/ApexRestaurant.Repository/bin/Debug/net7.0/ApexRestaurant.Repository.runtimeconfig.json
+E:/BCIS/7th sem/DotNet/ApexResturant/ApexRestaurant.Repository/bin/Debug/net7.0/ApexRestaurant.Repository.dll
+E:/BCIS/7th sem/DotNet/ApexResturant/ApexRestaurant.Repository/bin/Debug/net7.0/ApexRestaurant.Repository.pdb
+E:/BCIS/7th sem/DotNet/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.csproj.AssemblyReference.cache
+E:/BCIS/7th sem/DotNet/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:/BCIS/7th sem/DotNet/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.AssemblyInfoInputs.cache
+E:/BCIS/7th sem/DotNet/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.AssemblyInfo.cs
+E:/BCIS/7th sem/DotNet/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.csproj.CoreCompileInputs.cache
+E:/BCIS/7th sem/DotNet/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.dll
+E:/BCIS/7th sem/DotNet/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/refint/ApexRestaurant.Repository.dll
+E:/BCIS/7th sem/DotNet/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.pdb
+E:/BCIS/7th sem/DotNet/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.genruntimeconfig.cache
+E:/BCIS/7th sem/DotNet/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/ref/ApexRestaurant.Repository.dll
+/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/bin/Debug/net7.0/ApexRestaurant.Repository.deps.json
+/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/bin/Debug/net7.0/ApexRestaurant.Repository.runtimeconfig.json
+/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/bin/Debug/net7.0/ApexRestaurant.Repository.dll
+/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/bin/Debug/net7.0/ApexRestaurant.Repository.pdb
+/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.csproj.AssemblyReference.cache
+/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.AssemblyInfoInputs.cache
+/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.AssemblyInfo.cs
+/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.csproj.CoreCompileInputs.cache
+/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.dll
+/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/refint/ApexRestaurant.Repository.dll
+/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.pdb
+/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.genruntimeconfig.cache
+/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/ref/ApexRestaurant.Repository.dll
