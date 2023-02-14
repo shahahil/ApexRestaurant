@@ -16,3 +16,12 @@ E:/BCIS/7th sem/DotNet/ApexResturant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRes
 /Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.MvcApplicationPartsAssemblyInfo.cache
 /Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.RazorAssemblyInfo.cache
 /Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.RazorAssemblyInfo.cs
+/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.csproj.AssemblyReference.cache
+/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.AssemblyInfoInputs.cache
+/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.AssemblyInfo.cs
+/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.csproj.CoreCompileInputs.cache
+/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.MvcApplicationPartsAssemblyInfo.cs
+/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.MvcApplicationPartsAssemblyInfo.cache
+/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.RazorAssemblyInfo.cache
+/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Mvc/obj/Debug/net7.0/ApexRestaurant.Mvc.RazorAssemblyInfo.cs

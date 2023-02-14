@@ -1792,11 +1792,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Mvc/ApexRestaurant.Mvc.csproj",
+      "projectUniqueName": "/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Mvc/ApexRestaurant.Mvc.csproj",
       "projectName": "ApexRestaurant.Mvc",
-      "projectPath": "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Mvc/ApexRestaurant.Mvc.csproj",
+      "projectPath": "/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Mvc/ApexRestaurant.Mvc.csproj",
       "packagesPath": "/Users/shahilkumarthapa/.nuget/packages/",
-      "outputPath": "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Mvc/obj/",
+      "outputPath": "/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Mvc/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/shahilkumarthapa/.nuget/NuGet/NuGet.Config"

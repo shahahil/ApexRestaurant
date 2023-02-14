@@ -26,3 +26,17 @@ E:/BCIS/7th sem/DotNet/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/
 /Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.pdb
 /Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.genruntimeconfig.cache
 /Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/obj/Debug/net7.0/ref/ApexRestaurant.Repository.dll
+/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Repository/bin/Debug/net7.0/ApexRestaurant.Repository.deps.json
+/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Repository/bin/Debug/net7.0/ApexRestaurant.Repository.runtimeconfig.json
+/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Repository/bin/Debug/net7.0/ApexRestaurant.Repository.dll
+/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Repository/bin/Debug/net7.0/ApexRestaurant.Repository.pdb
+/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.csproj.AssemblyReference.cache
+/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.AssemblyInfoInputs.cache
+/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.AssemblyInfo.cs
+/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.csproj.CoreCompileInputs.cache
+/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.dll
+/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Repository/obj/Debug/net7.0/refint/ApexRestaurant.Repository.dll
+/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.pdb
+/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Repository/obj/Debug/net7.0/ApexRestaurant.Repository.genruntimeconfig.cache
+/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Repository/obj/Debug/net7.0/ref/ApexRestaurant.Repository.dll

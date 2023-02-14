@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Services/ApexRestaurant.Services.csproj": {}
+    "/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Services/ApexRestaurant.Services.csproj": {}
   },
   "projects": {
-    "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/ApexRestaurant.Repository.csproj": {
+    "/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Repository/ApexRestaurant.Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/ApexRestaurant.Repository.csproj",
+        "projectUniqueName": "/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Repository/ApexRestaurant.Repository.csproj",
         "projectName": "ApexRestaurant.Repository",
-        "projectPath": "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/ApexRestaurant.Repository.csproj",
+        "projectPath": "/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Repository/ApexRestaurant.Repository.csproj",
         "packagesPath": "/Users/shahilkumarthapa/.nuget/packages/",
-        "outputPath": "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/obj/",
+        "outputPath": "/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Repository/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shahilkumarthapa/.nuget/NuGet/NuGet.Config"
@@ -85,14 +85,14 @@
         }
       }
     },
-    "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Services/ApexRestaurant.Services.csproj": {
+    "/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Services/ApexRestaurant.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Services/ApexRestaurant.Services.csproj",
+        "projectUniqueName": "/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Services/ApexRestaurant.Services.csproj",
         "projectName": "ApexRestaurant.Services",
-        "projectPath": "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Services/ApexRestaurant.Services.csproj",
+        "projectPath": "/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Services/ApexRestaurant.Services.csproj",
         "packagesPath": "/Users/shahilkumarthapa/.nuget/packages/",
-        "outputPath": "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Services/obj/",
+        "outputPath": "/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Services/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/shahilkumarthapa/.nuget/NuGet/NuGet.Config"
@@ -107,8 +107,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/ApexRestaurant.Repository.csproj": {
-                "projectPath": "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/ApexRestaurant.Repository.csproj"
+              "/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Repository/ApexRestaurant.Repository.csproj": {
+                "projectPath": "/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Repository/ApexRestaurant.Repository.csproj"
               }
             }
           }

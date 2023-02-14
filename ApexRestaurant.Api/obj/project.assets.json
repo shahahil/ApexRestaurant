@@ -4944,6 +4944,8 @@
       "Microsoft.AspNetCore.OpenApi >= 7.0.2",
       "Microsoft.EntityFrameworkCore >= 7.0.2",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.2",
+      "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.2",
+      "Newtonsoft.Json >= 13.0.2",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
   },
@@ -4953,11 +4955,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Api/ApexRestaurant.Api.csproj",
+      "projectUniqueName": "/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Api/ApexRestaurant.Api.csproj",
       "projectName": "ApexRestaurant.Api",
-      "projectPath": "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Api/ApexRestaurant.Api.csproj",
+      "projectPath": "/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Api/ApexRestaurant.Api.csproj",
       "packagesPath": "/Users/shahilkumarthapa/.nuget/packages/",
-      "outputPath": "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Api/obj/",
+      "outputPath": "/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/shahilkumarthapa/.nuget/NuGet/NuGet.Config"
@@ -4972,11 +4974,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/ApexRestaurant.Repository.csproj": {
-              "projectPath": "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Repository/ApexRestaurant.Repository.csproj"
+            "/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Repository/ApexRestaurant.Repository.csproj": {
+              "projectPath": "/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Repository/ApexRestaurant.Repository.csproj"
             },
-            "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Services/ApexRestaurant.Services.csproj": {
-              "projectPath": "/Users/shahilkumarthapa/Desktop/ApexResturant/ApexRestaurant.Services/ApexRestaurant.Services.csproj"
+            "/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Services/ApexRestaurant.Services.csproj": {
+              "projectPath": "/Users/shahilkumarthapa/Documents/ApexRestuarant/ApexRestaurant/ApexRestaurant.Services/ApexRestaurant.Services.csproj"
             }
           }
         }
@@ -5004,6 +5006,14 @@
             "suppressParent": "All",
             "target": "Package",
             "version": "[7.0.2, )"
+          },
+          "Microsoft.EntityFrameworkCore.SqlServer": {
+            "target": "Package",
+            "version": "[7.0.2, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.2, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",
